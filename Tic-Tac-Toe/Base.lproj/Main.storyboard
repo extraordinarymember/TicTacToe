@@ -57,44 +57,74 @@
                             <button opaque="NO" tag="1" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="wSu-q3-9az">
                                 <frame key="frameInset" width="125" height="222"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="UIButtonClickedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ztv-yG-ntO"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="2" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="Ta9-Kt-eMc">
                                 <frame key="frameInset" minX="125" width="125" height="222"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="UIButtonClickedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="efP-vt-ays"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="3" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="bvc-o3-2el">
                                 <frame key="frameInset" minX="250" width="125" height="222"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="UIButtonClickedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="oDx-gq-qbH"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="4" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="bYo-It-5Fl">
                                 <frame key="frameInset" minY="222" width="125" height="222"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="UIButtonClickedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="KET-E4-ae7"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="5" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="yQv-Dk-Yxc">
                                 <frame key="frameInset" minX="125" minY="222" width="125" height="222"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="UIButtonClickedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pq9-hS-EDb"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="6" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="afC-oL-JXD">
                                 <frame key="frameInset" minX="250" minY="222" width="125" height="222"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="UIButtonClickedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zGc-wY-epm"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="7" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="j4z-xG-x02">
                                 <frame key="frameInset" minY="445" width="125" height="222"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="UIButtonClickedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="zdu-so-Run"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="8" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="kvf-x7-60B">
                                 <frame key="frameInset" minX="125" minY="445" width="125" height="222"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="UIButtonClickedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ZVk-A2-JG9"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="9" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="dPX-Ir-mrq">
                                 <frame key="frameInset" minX="250" minY="445" width="125" height="222"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <action selector="UIButtonClickedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="daC-VH-kvg"/>
+                                </connections>
                             </button>
                             <button hidden="YES" opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" id="nZl-pZ-maj">
                                 <frame key="frameInset" minX="125" minY="258" width="125" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.99135333299636841" green="0.11408901959657669" blue="0.0053115249611437321" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Reset"/>
+                                <connections>
+                                    <action selector="resetBtnClickedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RtW-g2-s5f"/>
+                                </connections>
                             </button>
                             <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Qob-bt-irt">
                                 <frame key="frameInset" minY="20" width="375" height="21"/>
@@ -109,6 +139,7 @@
                     </view>
                     <connections>
                         <outlet property="resetBtn" destination="nZl-pZ-maj" id="CHX-1M-DIE"/>
+                        <outlet property="thisIsATest" destination="w8x-j3-28A" id="aPK-Q6-2i9"/>
                         <outlet property="ticTacBtn1" destination="wSu-q3-9az" id="NwW-LM-j0Y"/>
                         <outlet property="ticTacBtn2" destination="Ta9-Kt-eMc" id="6Xm-rb-TvD"/>
                         <outlet property="ticTacBtn3" destination="bvc-o3-2el" id="2Kq-nK-u9c"/>
